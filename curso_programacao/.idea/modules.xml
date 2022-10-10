@@ -4,23 +4,37 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/curso_programacao.iml" filepath="$PROJECT_DIR$/curso_programacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/date_time/date_time.iml" filepath="$PROJECT_DIR$/date_time/date_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumeracoes/enumeracoes.iml" filepath="$PROJECT_DIR$/enumeracoes/enumeracoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio_matrizes/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/exercicio_matrizes/exercicio1/exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_poo/exercicio_1/exercicio_1.iml" filepath="$PROJECT_DIR$/exercicio_poo/exercicio_1/exercicio_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio_matrizes/exercicio_2/exercicio_2.iml" filepath="$PROJECT_DIR$/exercicio_matrizes/exercicio_2/exercicio_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_abaixo_da_media/exercicio_abaixo_da_media.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_abaixo_da_media/exercicio_abaixo_da_media.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_alturas/exercicio_alturas.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_alturas/exercicio_alturas.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio_aluno_passou/exercicio_aluno_passou.iml" filepath="$PROJECT_DIR$/exercicio_aluno_passou/exercicio_aluno_passou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_manipulacao_arquivos/exercicio_amigos/exercicio_amigos.iml" filepath="$PROJECT_DIR$/exercicio_manipulacao_arquivos/exercicio_amigos/exercicio_amigos.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_aprovados/exercicio_aprovados.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_aprovados/exercicio_aprovados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_composicoes/exercicio_composicoes.iml" filepath="$PROJECT_DIR$/exercicio_composicoes/exercicio_composicoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_composicoes/exercicio_composicoes2/exercicio_composicoes2.iml" filepath="$PROJECT_DIR$/exercicio_composicoes/exercicio_composicoes2/exercicio_composicoes2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_composicoes/exercicio_composicoes3/exercicio_composicoes3.iml" filepath="$PROJECT_DIR$/exercicio_composicoes/exercicio_composicoes3/exercicio_composicoes3.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio_construtor_encapsulamento/exercicio_construtor_encapsulamento.iml" filepath="$PROJECT_DIR$/exercicio_construtor_encapsulamento/exercicio_construtor_encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_dados_pessoais/exercicio_dados_pessoais.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_dados_pessoais/exercicio_dados_pessoais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_exceptions/exercicio_exceptions.iml" filepath="$PROJECT_DIR$/exercicio_exceptions/exercicio_exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_composicoes/exercicio_fixacao/exercicio_fixacao.iml" filepath="$PROJECT_DIR$/exercicio_composicoes/exercicio_fixacao/exercicio_fixacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio_funcionario/exercicio_funcionario.iml" filepath="$PROJECT_DIR$/exercicio_funcionario/exercicio_funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_manipulacao_arquivos/exercicio_gatos/exercicio_gatos.iml" filepath="$PROJECT_DIR$/exercicio_manipulacao_arquivos/exercicio_gatos/exercicio_gatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio_listas/exercicio_listas.iml" filepath="$PROJECT_DIR$/exercicio_listas/exercicio_listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_maior_posicao/exercicio_maior_posicao.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_maior_posicao/exercicio_maior_posicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_mais_velho/exercicio_mais_velho.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_mais_velho/exercicio_mais_velho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_manipulacao_arquivos/exercicio_manipulacao_arquivos.iml" filepath="$PROJECT_DIR$/exercicio_manipulacao_arquivos/exercicio_manipulacao_arquivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio_matrizes/exercicio_matrizes.iml" filepath="$PROJECT_DIR$/exercicio_matrizes/exercicio_matrizes.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_media_pares/exercicio_media_pares.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_media_pares/exercicio_media_pares.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_negativos/exercicio_negativos.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_negativos/exercicio_negativos.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_numero_pares/exercicio_numero_pares.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_numero_pares/exercicio_numero_pares.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_pensionato/exercicio_pensionato.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_pensionato/exercicio_pensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_poo/exercicio_poo.iml" filepath="$PROJECT_DIR$/exercicio_poo/exercicio_poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_poo/exercicio_poo2/exercicio_poo2.iml" filepath="$PROJECT_DIR$/exercicio_poo/exercicio_poo2/exercicio_poo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_poo/exercicio_poo3/exercicio_poo3.iml" filepath="$PROJECT_DIR$/exercicio_poo/exercicio_poo3/exercicio_poo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_manipulacao_arquivos/exercicio_produtos/exercicio_produtos.iml" filepath="$PROJECT_DIR$/exercicio_manipulacao_arquivos/exercicio_produtos/exercicio_produtos.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio_retangulo/exercicio_retangulo.iml" filepath="$PROJECT_DIR$/exercicio_retangulo/exercicio_retangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_soma_vetor/exercicio_soma_vetor.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_soma_vetor/exercicio_soma_vetor.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_vetores/exercicio_soma_vetores/exercicio_soma_vetores.iml" filepath="$PROJECT_DIR$/exercicios_vetores/exercicio_soma_vetores/exercicio_soma_vetores.iml" />
